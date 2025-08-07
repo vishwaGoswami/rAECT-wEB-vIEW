@@ -1,9 +1,9 @@
 {
+  // "homepage": "https://vishwaGoswami.github.io/reactWebView",
   "name": "krishna_fire",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vishwaGoswami.github.io/rea_webview_-",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
